@@ -1,0 +1,2 @@
+# madebymonday.github.io
+splash
